@@ -7,6 +7,7 @@ Useful for capturing control data from MIDI devices for prototyping and developm
 Simply clone the repo and navigate to the directory and enter:
 
 `npm install`
+
 `node midiListener.js`
 
 With Nodemon installed (recommended):
